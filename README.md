@@ -9,7 +9,8 @@ Time Periods: 1979-83, 1985-87, 1989-95
 The task is analysis and confrontation of different spatial models.
 
 ## Language Used
-**R**
+**R**  
+**GeoDa**
 
 ## Snapshot
 
@@ -26,6 +27,14 @@ The task is analysis and confrontation of different spatial models.
   Local Moran Plot RDAC80 
   <br>
   <img src="https://github.com/RosyDibernardi/Spatial-Models/assets/107631377/907be7d3-9515-440b-8c5d-796ec45b70d4" width="50%" height="50%" >
+  <br>
+  Confrontation AIC of different spatial models
+  <br>
+   <img src="https://github.com/RosyDibernardi/Spatial-Models/assets/107631377/799a7188-5cc3-4064-bf3d-66b0be9e161b" width="50%" height="50%" >
+  <br>
+  Spatial-Durbin model Impact
+  <br>
+  <img src="https://github.com/RosyDibernardi/Spatial-Models/assets/107631377/c70f1910-6238-44e2-91ea-a54e8d8ca06d" width="50%" height="50%" >
 </p>
 
 
